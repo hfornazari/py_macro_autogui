@@ -46,9 +46,13 @@ com comando
 ## Testes
 
 F6 - iniciar a captura 
+
 F8 - para captura e grava o arquivo da macro
+
 F9 - executa arquivo de captura
+
 F10 - Interrompe execução
+
 ESC - sai da aplicação
 
 
