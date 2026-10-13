@@ -58,4 +58,4 @@ pasta principal onde estão os arquivos
 pasta macros/default.json arquivo de captura de instruções de clicks e teclas gravados
 
 ## Licença
-NOT USE OR RESPONSIBILITIES THE SOFTWARE IS PROVIDADE AS-IS WITH NO GARANTIES OR WARRANTY. USE FOR YOUR OWN RISK
+NOT USE OR RESPONSIBILITIES THE SOFTWARE IS PROVIDED AS-IS WITH NO GARANTIES OR WARRANTY. USE FOR YOUR OWN RISK
